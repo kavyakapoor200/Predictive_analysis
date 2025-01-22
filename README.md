@@ -1,4 +1,5 @@
-# Predictive_analysis
+#predictive analysis
+# Predictive Analysis
 
 This repository contains code for predictive analysis, as implemented in the `predictive_analysis.ipynb` Jupyter Notebook. The notebook includes data preprocessing, analysis, and modeling steps.
 
@@ -19,6 +20,8 @@ To run the notebook, you will need:
   - contextlib
   - joblib
   - threading
+  - scikit-learn
+
 ## Setup Instructions
 
 1. Clone this repository:
@@ -45,10 +48,11 @@ To run the notebook, you will need:
 
 5. Open the `predictive_analysis.ipynb` file in your browser and execute the cells.
 
-## Usage
+## Usage in Google Colab
 
-1. Place your dataset in the same directory as the notebook (if applicable).
-2. Follow the instructions within the notebook to preprocess your data and perform predictive analysis.
+You can also run the notebook directly in Google Colab by clicking the badge below:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kavyakapoor200/predictive-analysis/blob/main/predictive_analysis.ipynb)
 
 ## File Structure
 
@@ -59,10 +63,10 @@ To run the notebook, you will need:
 └── README.md                  # This file
 ```
 
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
 Feel free to modify the notebook and adapt it to your specific use case!
-
