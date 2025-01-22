@@ -19,7 +19,6 @@ To run the notebook, you will need:
   - contextlib
   - joblib
   - threading
-  - 
 ## Setup Instructions
 
 1. Clone this repository:
